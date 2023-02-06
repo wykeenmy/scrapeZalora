@@ -1,6 +1,6 @@
 # scrapeZalora
 
-This project scrape every images and media of all SKU listed in "Question 1 Dataset.xlsx"
+This project scrape every images and video of all SKU listed in "Question 1 Dataset.xlsx"
 
 ## Package download
 package dependencies
@@ -27,3 +27,8 @@ parameter to run program
 Before running program, kindly check if you have downloaded the packages and chrome drivers mentioned above
 To run the program, open terminal(MacOS) / WindowPowerShell(Window) / cmd, then run the command as below
 `python main.py -driverPath /Users/wykeen/Downloads/chromedriver_mac64/chromedriver -n 100`
+
+After running program, folder path of each folder with respective media will created in 
+`.\Outputs\` as figure below
+<img width="1277" alt="image" src="https://user-images.githubusercontent.com/124185359/217021458-af14e0f1-aa42-46a0-b713-80883954b2cc.png">
+

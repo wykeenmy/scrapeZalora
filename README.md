@@ -17,6 +17,8 @@ Kindly install the package above in your virtual environment using pip install f
 Chrome driver installation
 
 Kindly refer to the link below for chrome driver download
+https://chromedriver.chromium.org/downloads
+
 After installation, kindly copy the filepath for chromedriver
 
 ## Program run
